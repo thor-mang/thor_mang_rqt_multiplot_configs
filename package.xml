@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>thor_mang_rqt_multiplot_configs</name>
+  <version>0.0.0</version>
+  <description>The thor_mang_rqt_multiplot_configs package</description>
+
+  <maintainer email="stumpf@sim.tu-darmstadt.de">Alexander Stumpf</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>
